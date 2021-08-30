@@ -4,6 +4,6 @@
   "private": true,
   "main": "catchHead",
   "devDependencies": {
-    "@kupi/sleep": "*"
+    "@kupi/sleep": "suenot/sleep"
   }
 }
